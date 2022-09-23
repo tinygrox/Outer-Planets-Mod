@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.6
+# Outer Planets Mod v2.2.10
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.8.*.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.12.*.
 
 ### 1 - About
 
@@ -34,7 +34,7 @@ Extract the GameData folder found in the downloadable .zip directly into your Ke
 
 The following KSP mods must be installed prior to using Outer Planets Mod (ensure you install the correct version of the dependencies for your version of KSP):
 
-* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases
+* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases (depending on KSP game version)
 * Module Manager - https://forum.kerbalspaceprogram.com/index.php?/topic/50533-1
 * Community Terrain Texture Pack - bundled within OPM
 
@@ -48,10 +48,11 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.6
+v2.2.10
 
-* Bumped version file to give compatibility with KSP 1.8.*
-* Deprecated support for following mods: Antenna Range & ClassicStockResources
+* Bumped versioning to support up to KSP v1.12.99
+* Added Russian localization thanks to Grimmas
+* Added preliminary support for Space Dust mod
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 

@@ -1,5 +1,29 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.10
+
+- Bumped versioning to support up to KSP v1.12.99
+- Added Russian localization thanks to Grimmas
+- Added preliminary support for Space Dust mod
+
+### Outer Planets Mod v2.2.9
+
+- Added LiquidFuel as a mineable resource in Tekto's oceans.
+- Fixed contracts from spawning requiring players to drill Ore from gas giants.
+- Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
+
+### Outer Planets Mod v2.2.8
+
+- Updated ground scatter notation to align with Kopernicus directly and enable scatter collision mesh interactions.
+- Resolved unnecessary double spaces in localization strings and replaced tab indentation with spaces in localization file.
+- Explicitly state PQS materialType for bodies with PQS meshes.
+- Remove bad characters from Localization strings.
+
+### Outer Planets Mod v2.2.7
+
+- Bumped version file to give compatibility with KSP 1.9.*
+- Updated KSPedia to work on KSP 1.8.*+
+
 ### Outer Planets Mod v2.2.6
 
 - Bumped version file to give compatibility with KSP 1.8.*
